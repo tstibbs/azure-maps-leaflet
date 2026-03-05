@@ -45,7 +45,7 @@ Currently supports raster (i.e PNG) tiles, support for vector tiles is planned.
 
 **Samples**
 
-[Render Azure Maps in Leaflet](https://samples.azuremaps.com/third-party-map-controls/render-azure-maps-in-leaflet)
+[Render Azure Maps in Leaflet](https://samples.azuremaps.com/?sample=render-azure-maps-in-leaflet)
 <br/>[<img src="https://samples.azuremaps.com/third-party-map-controls/render-azure-maps-in-leaflet/screenshot.jpg" height="200px">](https://samples.azuremaps.com/third-party-map-controls/render-azure-maps-in-leaflet)
 
 [Show Azure Maps in Leaflet layer control](https://samples.azuremaps.com/third-party-map-controls/show-azure-maps-in-leaflet-layer-control)
